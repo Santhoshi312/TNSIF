@@ -5,5 +5,4 @@ public interface Bank {
 	//abstract methods
 	void withdraw(double amount);
 	void deposit(double amount);
-
 }

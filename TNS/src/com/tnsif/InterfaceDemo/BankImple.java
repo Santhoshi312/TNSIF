@@ -1,6 +1,6 @@
 package com.tnsif.InterfaceDemo;
 
-public class BankImple implements Bank{
+public class BankImple implements Bank {
 	private double balance=1500;
 	@Override
 	public void withdraw(double amount) {
@@ -22,5 +22,6 @@ public class BankImple implements Bank{
 			System.err.print("exceeds deposit limit");
 		}
 	}
-
 }
+
+

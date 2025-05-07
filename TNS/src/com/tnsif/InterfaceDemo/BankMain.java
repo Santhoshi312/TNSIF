@@ -6,5 +6,4 @@ public class BankMain {
 		ob.withdraw(500);
 		ob.deposit(2345);
 	}
-
 }
